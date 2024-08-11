@@ -1,4 +1,5 @@
-> checkout my first [github]('https://github.com/daveman-stack')
+> checkout my first [github account](https://github.com/daveman-stack),
+> includes fun projects.
 # 👋 Hi, I’m @davidddeveloper
 
 > Eversince I was a kid I got so fascinated about computers💻. I would always wondered how those tiny manchine can perform complex and even breath taking task. 
